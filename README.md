@@ -44,5 +44,6 @@ The main barrier to doing a visualization for a 6-string Guitar is that the 2nd 
 
   
 
-Acknowledgments
+Acknowledgments:
+
 A huge thank you to the Code in Place professors, section leaders, and peers! This project represents many hours of strengthening our problem-solving skills, debugging strategies, and coding foundations. 
